@@ -354,4 +354,7 @@
     <string name="piko_media_like">лайк</string>
     <string name="piko_media_link">ссылка</string>
     <string name="piko_media_activity">активность</string>
+    <string name="piko_mark_story_seen">Отметить как просмотренное</string>
+    <string name="piko_story_seen_pending">Отметка о просмотре</string>
+    <string name="piko_story_seen_sent">Отмечено как просмотренное</string>
 </resources>
